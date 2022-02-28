@@ -1,4 +1,4 @@
-const skills = [
+const skills= [
   {text: 'Javascript', beginner: true, _id: 1},
   {text: 'CSS', beginner: false, _id: 2},
   {text: 'HTML', beginner: false, _id: 3},

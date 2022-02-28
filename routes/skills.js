@@ -5,7 +5,7 @@ const router = Router()
 
 router.get('/', skillsCtrl.index)
 
-router.get('/:id',skillsCtrl.new)
+router.get('/new',skillsCtrl.new)
 
 router.get('/:id', skillsCtrl.show)
 
